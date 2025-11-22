@@ -1,0 +1,304 @@
+{
+  "mods": [
+    {
+      "filename": "alternate-current-mc1.21.9-1.9.0.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/alternate-current-mc1.21.9-1.9.0.jar"
+    },
+    {
+      "filename": "animatica-0.6.1+1.21.5.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/animatica-0.6.1%2B1.21.5.jar"
+    },
+    {
+      "filename": "appleskin-fabric-mc1.21.9-3.0.7.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/appleskin-fabric-mc1.21.9-3.0.7.jar"
+    },
+    {
+      "filename": "BetterGrassify-1.8.2+fabric.1.21.10.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/BetterGrassify-1.8.2%2Bfabric.1.21.10.jar"
+    },
+    {
+      "filename": "bettermounthud-1.2.6.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/bettermounthud-1.2.6.jar"
+    },
+    {
+      "filename": "capes-1.5.9+1.21.9-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/capes-1.5.9%2B1.21.9-fabric.jar"
+    },
+    {
+      "filename": "chatanimation-1.0.7.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/chatanimation-1.0.7.jar"
+    },
+    {
+      "filename": "Chunky-Fabric-1.4.51.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/Chunky-Fabric-1.4.51.jar"
+    },
+    {
+      "filename": "cloth-config-20.0.149-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/cloth-config-20.0.149-fabric.jar"
+    },
+    {
+      "filename": "collective-1.21.10-8.13.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/collective-1.21.10-8.13.jar"
+    },
+    {
+      "filename": "continuity-3.0.1-beta.2+1.21.10.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/continuity-3.0.1-beta.2%2B1.21.10.jar"
+    },
+    {
+      "filename": "controlify-2.4.2+1.21.10-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/controlify-2.4.2%2B1.21.10-fabric.jar"
+    },
+    {
+      "filename": "Corgilib-Fabric-1.21.10-8.0.0.0.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/Corgilib-Fabric-1.21.10-8.0.0.0.jar"
+    },
+    {
+      "filename": "CrashAssistant-fabric-1.21.5-1.21.10-1.10.19.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/CrashAssistant-fabric-1.21.5-1.21.10-1.10.19.jar"
+    },
+    {
+      "filename": "cristellib-fabric-1.21.10-3.0.3.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/cristellib-fabric-1.21.10-3.0.3.jar"
+    },
+    {
+      "filename": "cwb-fabric-3.0.0+mc1.21.5.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/cwb-fabric-3.0.0%2Bmc1.21.5.jar"
+    },
+    {
+      "filename": "dynamic-fps-3.10.1+minecraft-1.21.9-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/dynamic-fps-3.10.1%2Bminecraft-1.21.9-fabric.jar"
+    },
+    {
+      "filename": "dynamiccrosshair-9.10+1.21.9-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/dynamiccrosshair-9.10%2B1.21.9-fabric.jar"
+    },
+    {
+      "filename": "entityculling-fabric-1.9.3-mc1.21.10.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/entityculling-fabric-1.9.3-mc1.21.10.jar"
+    },
+    {
+      "filename": "entity_model_features_1.21.9-fabric-3.0.5.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/entity_model_features_1.21.9-fabric-3.0.5.jar"
+    },
+    {
+      "filename": "entity_model_features_1.21.9-fabric-3.0.6.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/entity_model_features_1.21.9-fabric-3.0.6.jar"
+    },
+    {
+      "filename": "entity_texture_features-7.0.4-1.21.9-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/entity_texture_features-7.0.4-1.21.9-fabric.jar"
+    },
+    {
+      "filename": "entity_texture_features_1.21.9-fabric-7.0.5.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/entity_texture_features_1.21.9-fabric-7.0.5.jar"
+    },
+    {
+      "filename": "fabric-api-0.138.3+1.21.10.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/fabric-api-0.138.3%2B1.21.10.jar"
+    },
+    {
+      "filename": "fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/fabric-language-kotlin-1.13.7%2Bkotlin.2.2.21.jar"
+    },
+    {
+      "filename": "fabrishot-1.16.3.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/fabrishot-1.16.3.jar"
+    },
+    {
+      "filename": "FarmersDelight-1.21.10-3.4.1+refabricated.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/FarmersDelight-1.21.10-3.4.1%2Brefabricated.jar"
+    },
+    {
+      "filename": "ferritecore-8.0.2-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/ferritecore-8.0.2-fabric.jar"
+    },
+    {
+      "filename": "ForgeConfigAPIPort-v21.10.0+mc1.21.10-Fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/ForgeConfigAPIPort-v21.10.0%2Bmc1.21.10-Fabric.jar"
+    },
+    {
+      "filename": "geckolib-fabric-1.21.10-5.3-alpha-3.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/geckolib-fabric-1.21.10-5.3-alpha-3.jar"
+    },
+    {
+      "filename": "GlitchCore-fabric-1.21.10-21.10.0.4.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/GlitchCore-fabric-1.21.10-21.10.0.4.jar"
+    },
+    {
+      "filename": "graves-3.9.1+1.21.9.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/graves-3.9.1%2B1.21.9.jar"
+    },
+    {
+      "filename": "ImmediatelyFast-Fabric-1.13.2+1.21.10.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/ImmediatelyFast-Fabric-1.13.2%2B1.21.10.jar"
+    },
+    {
+      "filename": "Incendium_1.21.x_v5.4.9.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/Incendium_1.21.x_v5.4.9.jar"
+    },
+    {
+      "filename": "iris-fabric-1.9.6+mc1.21.9.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/iris-fabric-1.9.6%2Bmc1.21.9.jar"
+    },
+    {
+      "filename": "jei-1.21.10-fabric-26.1.1.21.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/jei-1.21.10-fabric-26.1.1.21.jar"
+    },
+    {
+      "filename": "lambdynamiclights-4.8.6+1.21.10.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/lambdynamiclights-4.8.6%2B1.21.10.jar"
+    },
+    {
+      "filename": "litematica-fabric-1.21.10-0.24.3.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/litematica-fabric-1.21.10-0.24.3.jar"
+    },
+    {
+      "filename": "lithium-fabric-0.20.0+mc1.21.10.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/lithium-fabric-0.20.0%2Bmc1.21.10.jar"
+    },
+    {
+      "filename": "lithium-fabric-0.20.1+mc1.21.10.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/lithium-fabric-0.20.1%2Bmc1.21.10.jar"
+    },
+    {
+      "filename": "main-menu-credits-1.2.0.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/main-menu-credits-1.2.0.jar"
+    },
+    {
+      "filename": "malilib-fabric-1.21.10-0.26.3.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/malilib-fabric-1.21.10-0.26.3.jar"
+    },
+    {
+      "filename": "mcwifipnp-1.9.7-1.21.9-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/mcwifipnp-1.9.7-1.21.9-fabric.jar"
+    },
+    {
+      "filename": "mixintrace-1.1.1+1.17.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/mixintrace-1.1.1%2B1.17.jar"
+    },
+    {
+      "filename": "modelfix-1.21.10-1.12-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/modelfix-1.21.10-1.12-fabric.jar"
+    },
+    {
+      "filename": "modmenu-16.0.0-rc.1.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/modmenu-16.0.0-rc.1.jar"
+    },
+    {
+      "filename": "morechathistory-1.3.1.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/morechathistory-1.3.1.jar"
+    },
+    {
+      "filename": "moreculling-fabric-1.21.9-1.5.0-beta.2.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/moreculling-fabric-1.21.9-1.5.0-beta.2.jar"
+    },
+    {
+      "filename": "NoChatReports-FABRIC-1.21.10-v2.16.0.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/NoChatReports-FABRIC-1.21.10-v2.16.0.jar"
+    },
+    {
+      "filename": "Oh-The-Biomes-Weve-Gone-Fabric-4.2.0.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/Oh-The-Biomes-Weve-Gone-Fabric-4.2.0.jar"
+    },
+    {
+      "filename": "Oh-The-Trees-Youll-Grow-fabric-1.21.10-8.0.2.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/Oh-The-Trees-Youll-Grow-fabric-1.21.10-8.0.2.jar"
+    },
+    {
+      "filename": "optiboxes-1.7+1.21.10-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/optiboxes-1.7%2B1.21.10-fabric.jar"
+    },
+    {
+      "filename": "optigui-2.3.0-beta.8+1.21.9.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/optigui-2.3.0-beta.8%2B1.21.9.jar"
+    },
+    {
+      "filename": "paginatedadvancements-2.8.0+1.21.9.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/paginatedadvancements-2.8.0%2B1.21.9.jar"
+    },
+    {
+      "filename": "polymer-bundled-0.14.3+1.21.10.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/polymer-bundled-0.14.3%2B1.21.10.jar"
+    },
+    {
+      "filename": "puzzle-fabric-2.1.2+1.21.9.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/puzzle-fabric-2.1.2%2B1.21.9.jar"
+    },
+    {
+      "filename": "reeses-sodium-options-fabric-1.8.5+mc1.21.9.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/reeses-sodium-options-fabric-1.8.5%2Bmc1.21.9.jar"
+    },
+    {
+      "filename": "Resourcify (1.21.10-fabric)-1.7.5.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/Resourcify%20%281.21.10-fabric%29-1.7.5.jar"
+    },
+    {
+      "filename": "rrls-5.1.12+mc1.21.9-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/rrls-5.1.12%2Bmc1.21.9-fabric.jar"
+    },
+    {
+      "filename": "ScalableLux-0.1.6+fabric.c25518a-all.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar"
+    },
+    {
+      "filename": "SereneSeasons-fabric-1.21.10-21.10.0.0.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/SereneSeasons-fabric-1.21.10-21.10.0.0.jar"
+    },
+    {
+      "filename": "servercore-fabric-1.5.14+1.21.9.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/servercore-fabric-1.5.14%2B1.21.9.jar"
+    },
+    {
+      "filename": "SkinShuffle-2.10.0+1.21.10.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/SkinShuffle-2.10.0%2B1.21.10.jar"
+    },
+    {
+      "filename": "sodium-extra-fabric-0.7.0+mc1.21.9.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/sodium-extra-fabric-0.7.0%2Bmc1.21.9.jar"
+    },
+    {
+      "filename": "sodium-fabric-0.7.3+mc1.21.10.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/sodium-fabric-0.7.3%2Bmc1.21.10.jar"
+    },
+    {
+      "filename": "sodium-shadowy-path-blocks-fabric-5.0.1.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/sodium-shadowy-path-blocks-fabric-5.0.1.jar"
+    },
+    {
+      "filename": "spark-1.10.152-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/spark-1.10.152-fabric.jar"
+    },
+    {
+      "filename": "TerraBlender-fabric-1.21.10-21.10.0.0.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/TerraBlender-fabric-1.21.10-21.10.0.0.jar"
+    },
+    {
+      "filename": "Terralith_1.21.x_v2.5.13.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/Terralith_1.21.x_v2.5.13.jar"
+    },
+    {
+      "filename": "treeharvester-1.21.10-9.3.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/treeharvester-1.21.10-9.3.jar"
+    },
+    {
+      "filename": "wwoo-fabric-2.6.0.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/wwoo-fabric-2.6.0.jar"
+    },
+    {
+      "filename": "Xaeros_Minimap_25.2.15_Fabric_1.21.9.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/Xaeros_Minimap_25.2.15_Fabric_1.21.9.jar"
+    },
+    {
+      "filename": "yet_another_config_lib_v3-3.8.0+1.21.9-fabric.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/yet_another_config_lib_v3-3.8.0%2B1.21.9-fabric.jar"
+    },
+    {
+      "filename": "yosbr-0.1.2.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/yosbr-0.1.2.jar"
+    },
+    {
+      "filename": "Zoomify-2.14.6+1.21.9.jar",
+      "downloadUrl": "https://github.com/manthuso/tactical-mcupdater/raw/main/Zoomify-2.14.6%2B1.21.9.jar"
+    }
+  ]
+}
